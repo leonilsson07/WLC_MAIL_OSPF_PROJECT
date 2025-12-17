@@ -9,6 +9,8 @@ The project focuses on **dynamic routing**, **role-based wireless access (Teache
 * **Date Completed:** February 2025
 * **Tools Used:** Cisco Packet Tracer
 
+![Network Topology](topology.png)
+
 ---
 
 ## Network Topology
